@@ -1,0 +1,17 @@
+.parent{
+    width:40%;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: auto;
+}
+
+input{
+    width: 95%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+}
